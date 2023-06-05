@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\Do_An_Java_Ky_2_New\QuanliquancfProMax\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
